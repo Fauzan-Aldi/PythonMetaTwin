@@ -1,6 +1,6 @@
-# pythonMetaTwin
+# PythonMetaTwin
 
-pythonMetaTwin adalah implementasi Python3 dari [MetaTwin] (https://github.com/threatexpress/metatwin) yang memungkinkan Anda menyalin metadata dan tanda tangan digital dari satu eksekusi Windows ke eksekusi lainnya menggunakan Wine pada platform non-Windows.
+PythonMetaTwin adalah implementasi Python3 dari [MetaTwin] (https://github.com/threatexpress/metatwin) yang memungkinkan Anda menyalin metadata dan tanda tangan digital dari satu eksekusi Windows ke eksekusi lainnya menggunakan Wine pada platform non-Windows.
 
 ## Persyaratan
 
